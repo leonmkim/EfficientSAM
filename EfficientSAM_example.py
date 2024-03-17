@@ -7,8 +7,6 @@ import torch
 import numpy as np
 import zipfile
 
-
-
 models = {}
 
 # Build the EfficientSAM-Ti model.

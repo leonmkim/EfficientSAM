@@ -5,3 +5,6 @@ __py
 **/__pycache__/
 # ignore egg-info
 *.egg-info
+# ignore the checkpoitns
+weights/efficient_sam_vits.pt
+weights/__MACOSX
